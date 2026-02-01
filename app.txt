@@ -1,3 +1,4 @@
 Collaboration Demo Project
 Version 1.0
-Here is the new line requested by the issue (left)
+Here is the new line requested by the issue (right)
+
